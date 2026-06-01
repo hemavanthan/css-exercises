@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd,
+.even {
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman", sans-serif;
+
+}
+
+.odd{
+    background-color:black;
+    color:white;
+
+}
+
+.even{
+    background-color:yellow;
+}
